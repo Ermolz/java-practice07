@@ -1,3 +1,4 @@
+[![Java CI with Gradle](https://github.com/Ermolz/java-practice07/actions/workflows/ci.yml/badge.svg)](https://github.com/Ermolz/java-practice07/actions/workflows/ci.yml)
 # Bank Transfer Service
 
 This project implements a robust bank transfer service demonstrating domain-driven design, layered architecture, and comprehensive testing strategies.
