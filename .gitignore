@@ -1,7 +1,6 @@
 # Gradle
 .gradle/
 build/
-!gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
 
@@ -20,3 +19,6 @@ out/
 *.zip
 *.tar.gz
 hs_err_pid*
+
+# Gradle Wrapper (MUST be after *.jar)
+!gradle/wrapper/gradle-wrapper.jar
